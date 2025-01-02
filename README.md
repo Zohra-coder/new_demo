@@ -1,4 +1,4 @@
 # new_demo
 This is my first repository
 <br>
-Author - Zohra Hashm
+Author - Zohra Hashmi
